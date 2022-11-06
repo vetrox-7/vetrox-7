@@ -1,6 +1,6 @@
 <h2>Merhaba 👋, Ben Hasan.</h2>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tedoa0&show_icons=true&hide_title=true&theme=merko">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=vetrox7&show_icons=true&hide_title=true&theme=merko">
 
 Kendi çapımda discord botu yapan bir insanım.
 
