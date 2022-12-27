@@ -12,7 +12,7 @@ Kendi çapımda discord botu yapan bir insanım.
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Rynix01&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vetrox-7&color=orange&label=PROFILE+VIEWS)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/663344128591134720)](https://discord.com/users/663344128591134720)
 </div>
