@@ -11,6 +11,8 @@ Kendi çapımda discord botu yapan bir insanım.
    <a href="https://www.instagram.com/hasan.kayra0" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Rynix01&color=orange&label=PROFILE+VIEWS)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/663344128591134720)](https://discord.com/users/663344128591134720)
 </div>
