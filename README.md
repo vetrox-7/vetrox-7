@@ -10,7 +10,7 @@ Yakında Yeni Publice Botlar Sunacağım.
 - Sitem : [🎈 Kişisel Sitem](https://vetrox.me)
 <h2>My social media accounts:</h2>
  <a href="https://discord.com/users/663344128591134720" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCTCHvnOPZ7L9BMrpGbid-XA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/vetroxmusic" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.instagram.com/hasan.kayra0" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <div align="center">
