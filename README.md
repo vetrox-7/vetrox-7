@@ -2,7 +2,9 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=vetrox-7&show_icons=true&hide_title=true&theme=merko">
 
-Kendi çapımda discord botu yapan bir insanım.
+Kendi çapımda discord botu yapan ve satan bir insanım.
+
+Yakında Yeni Publice Botlar Sunacağım.
 
 - Discord Hesabım: (vєtrσx#0007) | [🏡 Sunucum](https://discord.gg/AG5j526PDH)
 - Sitem : [🎈 Kişisel Sitem](https://vetrox.me)
